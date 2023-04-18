@@ -3,7 +3,7 @@ This project demonstrates the **Sustainsy.Saml2** library, which adds SAML2P sup
 
 It uses the Sustainsys notional Identity Provider (IDP), which can be a stand-in replacement for testing purposes.
 
-Follow the directions on the Systainsys site to configure your ASP.NET app: https://saml2.sustainsys.com/en/2.0/configuration.html
+Follow the directions on the Systainsys site to configure your ASP.NET app: https://saml2.sustainsys.com/en/v2/configuration.html
 
 ## In Brief:
 - Most modifications will be in your Web.config file
